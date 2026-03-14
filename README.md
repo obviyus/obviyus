@@ -29,10 +29,9 @@ Co-founder/CTO at [Crossroads](https://crossroads.sh/), maintainer at [OpenClaw]
 ## OSS I Contribute To
 
 - 🦞 [OpenClaw](https://github.com/openclaw/openclaw): Personal AI assistant across platforms; one of the main projects I maintain and contribute to.
-- 🌐 [openclaw.ai](https://github.com/openclaw/openclaw.ai): Website and docs for OpenClaw.
 - 🧰 [clawhub](https://github.com/openclaw/clawhub): Skill directory and ecosystem repo for OpenClaw.
 - ⚛️ [AliceO2Group/Control](https://github.com/AliceO2Group/Control): ALICE experiment control system; part of my CERN / GSoC work.
-- ⚡ [Bun](https://github.com/oven-sh/bun): JavaScript runtime, bundler, test runner, and package manager; public contributions.
-- 🤖 [Codex](https://github.com/openai/codex): Terminal coding agent; public contributions.
+- ⚡ [Bun](https://github.com/oven-sh/bun): JavaScript runtime, bundler, test runner, and package manager.
+- 🤖 [Codex](https://github.com/openai/codex): OpenAI's terminal coding agent.
 
 Feel free to reach out to me on hi @ obviy.us!
