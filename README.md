@@ -6,6 +6,7 @@ Co-founder/CTO at [Crossroads](https://crossroads.sh/), maintainer at [OpenClaw]
 
 - 📻 [chanson.live](https://github.com/obviyus/chanson.live): Ultra-low-latency WebRTC radio for listening together without noticeable desync.
 - 🔒 [agentwall](https://github.com/obviyus/agentwall): macOS sandbox for AI coding agents with file and network approval controls.
+- 🖥️ [shelleport](https://github.com/obviyus/shelleport): Browser-based remote control for AI coding sessions on any machine.
 - 🤖 [SuperSeriousBot](https://github.com/obviyus/SuperSeriousBot): Telegram bot with APIs and chat-management features, used by 5,000+ people.
 - ✈️ [pilane-web](https://github.com/obviyus/pilane-web): DIY plane-spotting project using YOLO and an old Android phone.
 - 🖼️ [musee](https://github.com/obviyus/musee): Fast self-hosted image gallery that ships minimal JavaScript.
